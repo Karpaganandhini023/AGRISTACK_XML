@@ -1,0 +1,58 @@
+[
+   {
+      "@cid": "01",
+      "name": "Suganthi K",
+      "phone": "9845612475",
+      "location": "Chennai",
+      "email": "sugu2000@gmail.com",
+      "type": "Individual"
+   },
+   {
+      "@cid": "02",
+      "name": "Nandhu",
+      "phone": "93443114816",
+      "location": "Chennai",
+      "email": "nandy2000@gmail.com",
+      "type": "Retail"
+   },
+   {
+      "@cid": "03",
+      "name": "Vasughi",
+      "phone": "967543823",
+      "location": "Tuticorin",
+      "email": "vasughivelu2000@gmail.com",
+      "type": "Individual"
+   },
+   {
+      "@cid": "04",
+      "name": "Nive",
+      "phone": "9845690075",
+      "location": "Tuticorin",
+      "email": "nivevelu2000@gmail.com",
+      "type": "Market"
+   },
+   {
+      "@cid": "05",
+      "name": "Akil",
+      "phone": "9435612475",
+      "location": "Chennai",
+      "email": "akilvelu2000@gmail.com",
+      "type": "Others"
+   },
+   {
+      "@cid": "06",
+      "name": "Agi",
+      "phone": "9846782475",
+      "location": "Chennai",
+      "email": "agi108@gmail.com",
+      "type": "Market"
+   },
+   {
+      "@cid": "07",
+      "name": "Jimin",
+      "phone": "98467612475",
+      "location": "Chennai",
+      "email": "jimin678@gmail.com",
+      "type": "Retail"
+   }
+]

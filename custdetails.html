@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+body {
+  background-image: url('14.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+  .div2{
+    background-color:green;
+  width: 500px;
+  height: 400px;
+  padding:50px;
+  border: 10px solid black;
+}
+  </style>
+</head>
+<body>
+<h1>AGRI STACK</h1><br><br><br>
+  <center>
+    <div class="div2">
+<h2><center>Customer Name and Favorite Product from Feedback</center></h2>
+<h2><center>And no of customers filled Feedback form</center></h2>
+<br><br><br><br><br>
+
+
+
+
+
+<p id="demo"></p>
+<p id="demo1"></p>
+<p id="demo2"></p>
+</div1>
+</center>
+
+<script>
+var parser, xmlDoc;
+var text = "<customer><name>Suganthi K</name>" +
+  "<phone> 9758499300 </phone>" +
+  "<location> Chennai </location>" +
+  "<email>sugu2000@gmail.com </email>" +
+  "<type> Individual </type>" +
+"</customer>";
+
+parser = new DOMParser();
+xmlDoc = parser.parseFromString(text,"text/xml");
+document.getElementById("demo2").innerHTML =
+xmlDoc.getElementsByTagName("customer")[0].childElementCount;
+document.getElementById("demo").innerHTML =
+xmlDoc.getElementsByTagName("name")[0].childNodes[0].nodeValue;
+document.getElementById("demo1").innerHTML =
+xmlDoc.getElementsByTagName("favproduct")[0].childNodes[0].nodeValue;
+</script>
+
+</body>
+
+</html>

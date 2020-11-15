@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<details>
+<customer cid="01">
+  <name>Suganthi</name>
+  <phone> 9845612475 </phone>
+  <location> Chennai </location>
+  <email> sugu2000@gmail.com </email>
+  <type> Individual </type>
+</customer>
+<customer cid="02">
+  <name>Nandhu</name>
+  <phone> 93443114816 </phone>
+  <location> Chennai </location>
+  <email> nandy2000@gmail.com </email>
+  <type> Retail </type>
+</customer>
+<customer cid="03">
+  <name>Vasughi</name>
+  <phone> 967543823 </phone>
+  <location> Tuticorin </location>
+  <email> vasughivelu2000@gmail.com </email>
+  <type> Individual </type>
+</customer>
+<customer cid="04">
+  <name>Nive</name>
+  <phone> 9845690075 </phone>
+  <location> Tuticorin </location>
+  <email> nivevelu2000@gmail.com </email>
+  <type> Market </type>
+</customer>
+<customer cid="05">
+  <name>Akil</name>
+  <phone> 9435612475 </phone>
+  <location> Chennai </location>
+  <email> akilvelu2000@gmail.com </email>
+  <type> Others </type>
+</customer>
+<customer cid="06">
+  <name>Agi</name>
+  <phone> 9846782475 </phone>
+  <location> Chennai </location>
+  <email> agi108@gmail.com </email>
+  <type> Market </type>
+</customer>
+<customer cid="07">
+  <name>Jimin</name>
+  <phone> 98467612475 </phone>
+  <location> Chennai </location>
+  <email> jimin678@gmail.com </email>
+  <type> Retail </type>
+</customer>
+</details>

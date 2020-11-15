@@ -1,0 +1,30 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT details (customer)+>
+<!ATTLIST details
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT customer (name,phone,location,email,Type of customer)>
+<!ATTLIST customer
+  xmlns CDATA #FIXED ''
+  cid CDATA #REQUIRED>
+
+<!ELEMENT name (#PCDATA)>
+<!ATTLIST name
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT phone (#PCDATA)>
+<!ATTLIST phone
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT location (#PCDATA)>
+<!ATTLIST location
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT email (#PCDATA)>
+<!ATTLIST email
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT favproduct (#PCDATA)>
+<!ATTLIST favproduct
+  xmlns CDATA #FIXED ''>
