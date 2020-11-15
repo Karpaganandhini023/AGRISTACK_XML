@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="products">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="market"/>
+        <xs:element ref="retail"/>
+        <xs:element ref="individual"/>
+        <xs:element ref="Others"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="market">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Apple"/>
+        <xs:element ref="Avocada"/>
+        <xs:element ref="Banana"/>
+        <xs:element ref="Cantalope"/>
+        <xs:element ref="Fig"/>
+        <xs:element ref="Grape"/>
+        <xs:element ref="Guava"/>
+        <xs:element ref="Kiwi"/>
+        <xs:element ref="Litch"/>
+        <xs:element ref="Peach"/>
+        <xs:element ref="Mango"/>
+        <xs:element ref="Orange"/>
+        <xs:element ref="Papaya"/>
+        <xs:element ref="Pineapple"/>
+		<xs:element ref="Watermelon"/>
+	    <xs:element ref="Coconut"/>
+		<xs:element ref="Tomato"/>
+		<xs:element ref="Potato"/>
+	    <xs:element ref="Brinjal"/>
+		<xs:element ref="Brinjal"/>
+		<xs:element ref="Capsicum"/>
+		<xs:element ref="Onion"/>
+		<xs:element ref="Chilly"/>
+		<xs:element ref="Ladysfinger"/>
+		<xs:element ref="Ginger"/>
+        <xs:element ref="Garlic"/>
+        <xs:element ref="Carrot"/>
+        <xs:element ref="Beetroot"/>
+        <xs:element ref="Cabbage"/>
+        <xs:element ref="Drumstick"/>
+        <xs:element ref="Beans"/>
+        <xs:element ref="Pumpkin"/>
+      </xs:sequence>
+      <xs:attribute name="bno" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="retail">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Apple"/>
+        <xs:element ref="Avocada"/>
+        <xs:element ref="Banana"/>
+        <xs:element ref="Cantalope"/>
+        <xs:element ref="Fig"/>
+        <xs:element ref="Grape"/>
+        <xs:element ref="Guava"/>
+        <xs:element ref="Kiwi"/>
+        <xs:element ref="Litch"/>
+        <xs:element ref="Peach"/>
+        <xs:element ref="Mango"/>
+        <xs:element ref="Orange"/>
+        <xs:element ref="Papaya"/>
+        <xs:element ref="Pineapple"/>
+		<xs:element ref="Watermelon"/>
+	    <xs:element ref="Coconut"/>
+		<xs:element ref="Tomato"/>
+		<xs:element ref="Potato"/>
+	    <xs:element ref="Brinjal"/>
+		<xs:element ref="Brinjal"/>
+		<xs:element ref="Capsicum"/>
+		<xs:element ref="Onion"/>
+		<xs:element ref="Chilly"/>
+		<xs:element ref="Ladysfinger"/>
+		<xs:element ref="Ginger"/>
+        <xs:element ref="Garlic"/>
+        <xs:element ref="Carrot"/>
+        <xs:element ref="Beetroot"/>
+        <xs:element ref="Cabbage"/>
+        <xs:element ref="Drumstick"/>
+        <xs:element ref="Beans"/>
+        <xs:element ref="Pumpkin"/>
+      </xs:sequence>
+      <xs:attribute name="bno" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="individual">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Apple"/>
+        <xs:element ref="Avocada"/>
+        <xs:element ref="Banana"/>
+        <xs:element ref="Cantalope"/>
+        <xs:element ref="Fig"/>
+        <xs:element ref="Grape"/>
+        <xs:element ref="Guava"/>
+        <xs:element ref="Kiwi"/>
+        <xs:element ref="Litch"/>
+        <xs:element ref="Peach"/>
+        <xs:element ref="Mango"/>
+        <xs:element ref="Orange"/>
+        <xs:element ref="Papaya"/>
+        <xs:element ref="Pineapple"/>
+		<xs:element ref="Watermelon"/>
+	    <xs:element ref="Coconut"/>
+		<xs:element ref="Tomato"/>
+		<xs:element ref="Potato"/>
+	    <xs:element ref="Brinjal"/>
+		<xs:element ref="Brinjal"/>
+		<xs:element ref="Capsicum"/>
+		<xs:element ref="Onion"/>
+		<xs:element ref="Chilly"/>
+		<xs:element ref="Ladysfinger"/>
+		<xs:element ref="Ginger"/>
+        <xs:element ref="Garlic"/>
+        <xs:element ref="Carrot"/>
+        <xs:element ref="Beetroot"/>
+        <xs:element ref="Cabbage"/>
+        <xs:element ref="Drumstick"/>
+        <xs:element ref="Beans"/>
+        <xs:element ref="Pumpkin"/>
+      </xs:sequence>
+      <xs:attribute name="bno" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Others">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Apple"/>
+        <xs:element ref="Avocada"/>
+        <xs:element ref="Banana"/>
+        <xs:element ref="Cantalope"/>
+        <xs:element ref="Fig"/>
+        <xs:element ref="Grape"/>
+        <xs:element ref="Guava"/>
+        <xs:element ref="Kiwi"/>
+        <xs:element ref="Litch"/>
+        <xs:element ref="Peach"/>
+        <xs:element ref="Mango"/>
+        <xs:element ref="Orange"/>
+        <xs:element ref="Papaya"/>
+        <xs:element ref="Pineapple"/>
+		<xs:element ref="Watermelon"/>
+	    <xs:element ref="Coconut"/>
+		<xs:element ref="Tomato"/>
+		<xs:element ref="Potato"/>
+	    <xs:element ref="Brinjal"/>
+		<xs:element ref="Brinjal"/>
+		<xs:element ref="Capsicum"/>
+		<xs:element ref="Onion"/>
+		<xs:element ref="Chilly"/>
+		<xs:element ref="Ladysfinger"/>
+		<xs:element ref="Ginger"/>
+        <xs:element ref="Garlic"/>
+        <xs:element ref="Carrot"/>
+        <xs:element ref="Beetroot"/>
+        <xs:element ref="Cabbage"/>
+        <xs:element ref="Drumstick"/>
+        <xs:element ref="Beans"/>
+        <xs:element ref="Pumpkin"/>
+      </xs:sequence>
+      <xs:attribute name="bno" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+Apple,Avocada,Banana,Cantalope,Fig,Grape,Guava,Kiwi,Litch,Peach,Mango,Orange,Papaya,Pear,Pineapple,Watermelon,
+Coconut,Tomato,Potato,Brinjal,Capsicum,Onion,Chilly,Ladysfinger,Ginger,Garlic,Carrot,Beetroot,Cabbage,Drumstick,Beans,Pumpkin
+  <xs:element name="Apple" type="xs:string"/>
+  <xs:element name="Avocada" type="xs:string"/>
+  <xs:element name="Banana" type="xs:string"/>
+  <xs:element name="Cantalope" type="xs:string"/>
+  <xs:element name="Fig" type="xs:string"/>
+  <xs:element name="Grape" type="xs:string"/>
+  <xs:element name="Guava" type="xs:string"/>
+  <xs:element name="Kiwi" type="xs:string"/>
+  <xs:element name="Litch" type="xs:string"/>
+  <xs:element name="Peach" type="xs:string"/>
+  <xs:element name="Mango" type="xs:string"/>
+  <xs:element name="Orange" type="xs:string"/>
+  <xs:element name="Papaya" type="xs:string"/>
+  <xs:element name="Pear" type="xs:string"/>
+  <xs:element name="Pineapple" type="xs:string"/>
+  <xs:element name="Watermelon" type="xs:string"/>
+  <xs:element name="Coconut" type="xs:string"/>
+  <xs:element name="Tomato" type="xs:string"/>
+  <xs:element name="Potato" type="xs:string"/>
+  <xs:element name="Brinjal" type="xs:string"/>
+  <xs:element name="Capsicum" type="xs:string"/>
+  <xs:element name="Onion" type="xs:string"/>
+  <xs:element name="Chilly" type="xs:string"/>
+  <xs:element name="Ladysfinger" type="xs:string"/>
+  <xs:element name="Ginger" type="xs:string"/>
+  <xs:element name="Garlic" type="xs:string"/>
+  <xs:element name="Carrot" type="xs:string"/>
+  <xs:element name="Beetroot" type="xs:string"/>
+  <xs:element name="Cabbage" type="xs:string"/>
+  <xs:element name="Drumstick" type="xs:string"/>
+  <xs:element name="Beans" type="xs:string"/>
+   <xs:element name="Pumpkin" type="xs:string"/>
+</xs:schema>

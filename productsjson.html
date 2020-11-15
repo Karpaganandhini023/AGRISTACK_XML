@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+    .div1{
+      background-color:pink;
+      width: 500px;
+      height: 350px;
+      padding:50px;
+      border: 10px solid black;
+    }
+    body {
+      background-image: url('11.jpg');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+    }
+    </style>
+  </head>
+<body>
+
+<h1>AGRISTACK</h1><br><br><br>
+<center>
+<div class="div1">
+        <h2>AGRI PRODUCTS FOR SALE!!</h2><br><br>
+<ul id="demo"></ul>
+<ul id="demo1"></ul>
+<ul id="demo2"></ul>
+<ul id="demo3"></ul>
+<ul id="demo4"></ul>
+</div1>
+</center>
+
+<script>
+var text = '{"products":[' +
+'{"brand":"market","product":"Apple" },' +
+'{"brand":"retail","product":"Coconut" },' +
+'{"brand":"individual","product":"Pumpkin" },' +
+'{"brand":"Others","product":"Chilly" }]}';
+
+obj = JSON.parse(text);
+document.getElementById("demo").innerHTML ="<li>"+
+obj.products[0].brand + " - " + obj.products[0].product +"</li>";
+document.getElementById("demo1").innerHTML ="<li>"+
+obj.products[1].brand + " - " + obj.products[1].product +"</li>";
+document.getElementById("demo2").innerHTML ="<li>"+
+obj.products[2].brand + " - " + obj.products[2].product +"</li>";
+document.getElementById("demo3").innerHTML ="<li>"+
+obj.products[3].brand + " - " + obj.products[3].product +"</li>";
+document.getElementById("demo4").innerHTML ="<li>"+
+obj.products[4].brand + " - " + obj.products[4].product +"</li>";
+</script>
+
+</body>
+</html>

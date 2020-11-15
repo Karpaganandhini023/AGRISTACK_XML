@@ -1,0 +1,141 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT products (market,retail,individual,Others)>
+<!ATTLIST products
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT market(Apple,Avocada,Banana,Cantalope,Fig,Grape,Guava,Kiwi,Litch,Peach,Mango,Orange,Papaya,Pear,Pineapple,Watermelon,
+Coconut,Tomato,Potato,Brinjal,Capsicum,Onion,Chilly,Ladysfinger,Ginger,Garlic,Carrot,Beetroot,Cabbage,Drumstick,Beans,Pumpkin)>
+<!ATTLIST market
+  xmlns CDATA #FIXED ''
+  bno NMTOKEN #REQUIRED>
+
+<!ELEMENT retail(Apple,Avocada,Banana,Cantalope,Fig,Grape,Guava,Kiwi,Litch,Peach,Mango,Orange,Papaya,Pear,Pineapple,Watermelon,
+Coconut,Tomato,Potato,Brinjal,Capsicum,Onion,Chilly,Ladysfinger,Ginger,Garlic,Carrot,Beetroot,Cabbage,Drumstick,Beans,Pumpkin)>
+<!ATTLIST retail
+  xmlns CDATA #FIXED ''
+  bno NMTOKEN #REQUIRED>
+
+<!ELEMENT individual(Apple,Avocada,Banana,Cantalope,Fig,Grape,Guava,Kiwi,Litch,Peach,Mango,Orange,Papaya,Pear,Pineapple,Watermelon,
+Coconut,Tomato,Potato,Brinjal,Capsicum,Onion,Chilly,Ladysfinger,Ginger,Garlic,Carrot,Beetroot,Cabbage,Drumstick,Beans,Pumpkin)>
+<!ATTLIST individual
+  xmlns CDATA #FIXED ''
+  bno NMTOKEN #REQUIRED>
+
+<!ELEMENT Others(Apple,Avocada,Banana,Cantalope,Fig,Grape,Guava,Kiwi,Litch,Peach,Mango,Orange,Papaya,Pear,Pineapple,Watermelon,
+Coconut,Tomato,Potato,Brinjal,Capsicum,Onion,Chilly,Ladysfinger,Ginger,Garlic,Carrot,Beetroot,Cabbage,Drumstick,Beans,Pumpkin)>
+<!ATTLIST Others
+  xmlns CDATA #FIXED ''
+  bno NMTOKEN #REQUIRED>
+
+<!ELEMENT Apple(#PCDATA)>
+<!ATTLIST Apple
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Avocada(#PCDATA)>
+<!ATTLIST Avocada
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Banana (#PCDATA)>
+<!ATTLIST Banana
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Cantalope (#PCDATA)>
+<!ATTLIST Cantalope
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Capsicum (#PCDATA)>
+<!ATTLIST Capsicum
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Fig (#PCDATA)>
+<!ATTLIST Fig
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Grape (#PCDATA)>
+<!ATTLIST Grape
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Guava (#PCDATA)>
+<!ATTLIST Guava
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Peach (#PCDATA)>
+<!ATTLIST Peach
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Papaya (#PCDATA)>
+<!ATTLIST Papaya
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Pumpkin (#PCDATA)>
+<!ATTLIST Pumpkin
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Kiwi(#PCDATA)>
+<!ATTLIST Kiwi
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Litch (#PCDATA)>
+<!ATTLIST Litch
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Mango (#PCDATA)>
+<!ATTLIST Mango
+  xmlns CDATA #FIXED ''>
+  
+<!ELEMENT Orange (#PCDATA)>
+<!ATTLIST Orange
+  xmlns CDATA #FIXED ''>
+  
+<!ELEMENT Watermelon (#PCDATA)>
+<!ATTLIST Watermelon
+  xmlns CDATA #FIXED ''>
+  
+<!ELEMENT Pineapple (#PCDATA)>
+<!ATTLIST Pineapple
+  xmlns CDATA #FIXED ''>
+  
+<!ELEMENT Coconut (#PCDATA)>
+<!ATTLIST Coconut
+  xmlns CDATA #FIXED ''>
+  
+<!ELEMENT Chilly (#PCDATA)>
+<!ATTLIST Chilly
+  xmlns CDATA #FIXED ''>
+  
+<!ELEMENT Capsicum (#PCDATA)>
+<!ATTLIST Capsicum
+  xmlns CDATA #FIXED ''>
+  
+<!ELEMENT Carrot (#PCDATA)>
+<!ATTLIST Carrot
+  xmlns CDATA #FIXED ''>
+  
+<!ELEMENT Tomato (#PCDATA)>
+<!ATTLIST Tomato
+  xmlns CDATA #FIXED ''>
+  
+<!ELEMENT Beans (#PCDATA)>
+<!ATTLIST Beans
+  xmlns CDATA #FIXED ''>
+  
+<!ELEMENT Brinjal (#PCDATA)>
+<!ATTLIST Brinjal
+  xmlns CDATA #FIXED ''>
+  
+<!ELEMENT Beetroot (#PCDATA)>
+<!ATTLIST Beetroot
+  xmlns CDATA #FIXED ''>
+  
+<!ELEMENT Ladysfinger (#PCDATA)>
+<!ATTLIST Ladysfinger
+  xmlns CDATA #FIXED ''>
+  
+<!ELEMENT Drumstick (#PCDATA)>
+<!ATTLIST Drumstick
+  xmlns CDATA #FIXED ''>
+  
+<!ELEMENT Onion (#PCDATA)>
+<!ATTLIST Onion
+  xmlns CDATA #FIXED ''>

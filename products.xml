@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE products SYSTEM "products.dtd">
+<products>
+<market bno="m1">
+      <Apple>Apple - 50 <Apple>
+      <Avocada>Avocada - 45<Avocada>
+      <Banana>Banana - 40<Banana>
+      <Cantalope>Cantalope - 40<Cantalope>
+      <Fig>Fig - 30<Fig>
+      <Grape>Grape - 56<Grape>
+      <Guava>Guava - 45<Guava> 
+      <Kiwi>Kiwi - 35<Kiwi>
+      <Litch>Litch - 30<Litch>
+      <Peach>Peach - 25<Peach>
+      <Mango>Mango - 50<Mango>
+      <Orange>Orange - 60<Orange>
+      <Papaya>Papaya - 45<Papaya>
+      <Pear>Pear - 60<Pear>
+	  <Pineapple>Pineapple - 50<Pineapple>
+	  <Watermelon>Watermelon - 30<Watermelon>
+	  <Coconut>Coconut - 30<Coconut>
+      <Tomato>Tomato - 35<Tomato>
+      <Potato>Potato - 40<Potato> 
+      <Brinjal>Brinjal -37<Brinjal>
+      <Capsicum>Capsicum -20<Capsicum>
+      <Onion>Onion -70<Onion>
+      <Chilly>Chilly -30<Chilly>
+      <Ladysfinger>Ladysfinger -45<Ladysfinger>
+      <Ginger>Ginger -30<Ginger>
+      <Garlic>Garlic -40<Garlic>
+      <Carrot>Carrot -45<Carrot>
+      <Beetroot>Beetroot -55<Beetroot>
+      <Cabbage>Cabbage -30<Cabbage>
+      <Drumstick>Drumstick -20<Drumstick>
+	  <Beans>Beans - 40<Beans>
+	  <Pumpkin>Pumpkin -30<Pumpkin>
+</market>
+<retail bno="m2">
+     <Apple>Apple - 50 <Apple>
+      <Avocada>Avocada - 45<Avocada>
+      <Banana>Banana - 40<Banana>
+      <Cantalope>Cantalope - 40<Cantalope>
+      <Fig>Fig - 30<Fig>
+      <Grape>Grape - 56<Grape>
+      <Guava>Guava - 45<Guava> 
+      <Kiwi>Kiwi - 35<Kiwi>
+      <Litch>Litch - 30<Litch>
+      <Peach>Peach - 25<Peach>
+      <Mango>Mango - 50<Mango>
+      <Orange>Orange - 60<Orange>
+      <Papaya>Papaya - 45<Papaya>
+      <Pear>Pear - 60<Pear>
+	  <Pineapple>Pineapple - 50<Pineapple>
+	  <Watermelon>Watermelon - 30<Watermelon>
+	  <Coconut>Coconut - 30<Coconut>
+      <Tomato>Tomato - 35<Tomato>
+      <Potato>Potato - 40<Potato> 
+      <Brinjal>Brinjal -37<Brinjal>
+      <Capsicum>Capsicum -20<Capsicum>
+      <Onion>Onion -70<Onion>
+      <Chilly>Chilly -30<Chilly>
+      <Ladysfinger>Ladysfinger -45<Ladysfinger>
+      <Ginger>Ginger -30<Ginger>
+      <Garlic>Garlic -40<Garlic>
+      <Carrot>Carrot -45<Carrot>
+      <Beetroot>Beetroot -55<Beetroot>
+      <Cabbage>Cabbage -30<Cabbage>
+      <Drumstick>Drumstick -20<Drumstick>
+	  <Beans>Beans - 40<Beans>
+	  <Pumpkin>Pumpkin -30<Pumpkin>
+</retail>
+<individual bno="m3">
+  <Apple>Apple - 50 <Apple>
+      <Avocada>Avocada - 45<Avocada>
+      <Banana>Banana - 40<Banana>
+      <Cantalope>Cantalope - 40<Cantalope>
+      <Fig>Fig - 30<Fig>
+      <Grape>Grape - 56<Grape>
+      <Guava>Guava - 45<Guava> 
+      <Kiwi>Kiwi - 35<Kiwi>
+      <Litch>Litch - 30<Litch>
+      <Peach>Peach - 25<Peach>
+      <Mango>Mango - 50<Mango>
+      <Orange>Orange - 60<Orange>
+      <Papaya>Papaya - 45<Papaya>
+      <Pear>Pear - 60<Pear>
+	  <Pineapple>Pineapple - 50<Pineapple>
+	  <Watermelon>Watermelon - 30<Watermelon>
+	  <Coconut>Coconut - 30<Coconut>
+      <Tomato>Tomato - 35<Tomato>
+      <Potato>Potato - 40<Potato> 
+      <Brinjal>Brinjal -37<Brinjal>
+      <Capsicum>Capsicum -20<Capsicum>
+      <Onion>Onion -70<Onion>
+      <Chilly>Chilly -30<Chilly>
+      <Ladysfinger>Ladysfinger -45<Ladysfinger>
+      <Ginger>Ginger -30<Ginger>
+      <Garlic>Garlic -40<Garlic>
+      <Carrot>Carrot -45<Carrot>
+      <Beetroot>Beetroot -55<Beetroot>
+      <Cabbage>Cabbage -30<Cabbage>
+      <Drumstick>Drumstick -20<Drumstick>
+	  <Beans>Beans - 40<Beans>
+	  <Pumpkin>Pumpkin -30<Pumpkin>
+</individual>
+<Others bno="m4">
+  <Apple>Apple - 50 <Apple>
+      <Avocada>Avocada - 45<Avocada>
+      <Banana>Banana - 40<Banana>
+      <Cantalope>Cantalope - 40<Cantalope>
+      <Fig>Fig - 30<Fig>
+      <Grape>Grape - 56<Grape>
+      <Guava>Guava - 45<Guava> 
+      <Kiwi>Kiwi - 35<Kiwi>
+      <Litch>Litch - 30<Litch>
+      <Peach>Peach - 25<Peach>
+      <Mango>Mango - 50<Mango>
+      <Orange>Orange - 60<Orange>
+      <Papaya>Papaya - 45<Papaya>
+      <Pear>Pear - 60<Pear>
+	  <Pineapple>Pineapple - 50<Pineapple>
+	  <Watermelon>Watermelon - 30<Watermelon>
+	  <Coconut>Coconut - 30<Coconut>
+      <Tomato>Tomato - 35<Tomato>
+      <Potato>Potato - 40<Potato> 
+      <Brinjal>Brinjal -37<Brinjal>
+      <Capsicum>Capsicum -20<Capsicum>
+      <Onion>Onion -70<Onion>
+      <Chilly>Chilly -30<Chilly>
+      <Ladysfinger>Ladysfinger -45<Ladysfinger>
+      <Ginger>Ginger -30<Ginger>
+      <Garlic>Garlic -40<Garlic>
+      <Carrot>Carrot -45<Carrot>
+      <Beetroot>Beetroot -55<Beetroot>
+      <Cabbage>Cabbage -30<Cabbage>
+      <Drumstick>Drumstick -20<Drumstick>
+	  <Beans>Beans - 40<Beans>
+	  <Pumpkin>Pumpkin -30<Pumpkin>
+</Others>
+</products>

@@ -1,0 +1,143 @@
+{
+   "market": {
+      "@bno": "m1",
+      "Apple": "Apple - 50",
+      "Avocada": "Avocada - 45",
+      "Banana": "Banana - 40",
+      "Cantalope": "Cantalope - 40",
+      "Fig": "Fig - 30",
+      "Grape": "Grape - 56",
+      "Guava": "Guava - 45",
+      "Kiwi": "Kiwi - 35",
+      "Litch": "Litch - 30",
+      "Peach": "Peach - 25",
+      "Mango": "Mango - 50",
+      "Orange": "Orange - 60",
+      "Papaya": "Papaya - 45",
+      "Pear": "Pear - 60"
+	  "Pineapple": "Pineapple - 50"
+	  "Watermelon": "Watermelon - 30"
+	  "Coconut": "Coconut - 30",
+      "Tomato": "Tomato - 35",
+      "Potato": "Potato - 40",
+      "Brinjal": "Brinjal -37",
+      "Capsicum": "Capsicum -20",
+      "Onion": "Onion -70",
+      "Chilly": "Chilly -30",
+      "Ladysfinger": "Ladysfinger -45",
+      "Ginger": "Ginger -30",
+      "Garlic": "Garlic -40",
+      "Carrot": "Carrot -45",
+      "Beetroot": "Beetroot -55",
+      "Cabbage": "Cabbage -30",
+      "Drumstick": "Drumstick -20"
+	  "Beans": "Beans - 40"
+	  "Pumpkin": "Pumpkin -30"
+	  
+   },
+   "retail": {
+      "@bno": "m2",
+      "Apple": "Apple - 50",
+      "Avocada": "Avocada - 45",
+      "Banana": "Banana - 40",
+      "Cantalope": "Cantalope - 40",
+      "Fig": "Fig - 30",
+      "Grape": "Grape - 56",
+      "Guava": "Guava - 45",
+      "Kiwi": "Kiwi - 35",
+      "Litch": "Litch - 30",
+      "Peach": "Peach - 25",
+      "Mango": "Mango - 50",
+      "Orange": "Orange - 60",
+      "Papaya": "Papaya - 45",
+      "Pear": "Pear - 60"
+	  "Pineapple": "Pineapple - 50"
+	  "Watermelon": "Watermelon - 30"
+	  "Coconut": "Coconut - 30",
+      "Tomato": "Tomato - 35",
+      "Potato": "Potato - 40",
+      "Brinjal": "Brinjal -37",
+      "Capsicum": "Capsicum -20",
+      "Onion": "Onion -70",
+      "Chilly": "Chilly -30",
+      "Ladysfinger": "Ladysfinger -45",
+      "Ginger": "Ginger -30",
+      "Garlic": "Garlic -40",
+      "Carrot": "Carrot -45",
+      "Beetroot": "Beetroot -55",
+      "Cabbage": "Cabbage -30",
+      "Drumstick": "Drumstick -20"
+	  "Beans": "Beans - 40"
+	  "Pumpkin": "Pumpkin -30"
+   },
+   "individuals": {
+      "@bno": "m3",
+      "Apple": "Apple - 50",
+      "Avocada": "Avocada - 45",
+      "Banana": "Banana - 40",
+      "Cantalope": "Cantalope - 40",
+      "Fig": "Fig - 30",
+      "Grape": "Grape - 56",
+      "Guava": "Guava - 45",
+      "Kiwi": "Kiwi - 35",
+      "Litch": "Litch - 30",
+      "Peach": "Peach - 25",
+      "Mango": "Mango - 50",
+      "Orange": "Orange - 60",
+      "Papaya": "Papaya - 45",
+      "Pear": "Pear - 60"
+	  "Pineapple": "Pineapple - 50"
+	  "Watermelon": "Watermelon - 30"
+	  "Coconut": "Coconut - 30",
+      "Tomato": "Tomato - 35",
+      "Potato": "Potato - 40",
+      "Brinjal": "Brinjal -37",
+      "Capsicum": "Capsicum -20",
+      "Onion": "Onion -70",
+      "Chilly": "Chilly -30",
+      "Ladysfinger": "Ladysfinger -45",
+      "Ginger": "Ginger -30",
+      "Garlic": "Garlic -40",
+      "Carrot": "Carrot -45",
+      "Beetroot": "Beetroot -55",
+      "Cabbage": "Cabbage -30",
+      "Drumstick": "Drumstick -20"
+	  "Beans": "Beans - 40"
+	  "Pumpkin": "Pumpkin -30"
+   },
+   "Others": {
+      "@bno": "m4",
+      "Apple": "Apple - 50",
+      "Avocada": "Avocada - 45",
+      "Banana": "Banana - 40",
+      "Cantalope": "Cantalope - 40",
+      "Fig": "Fig - 30",
+      "Grape": "Grape - 56",
+      "Guava": "Guava - 45",
+      "Kiwi": "Kiwi - 35",
+      "Litch": "Litch - 30",
+      "Peach": "Peach - 25",
+      "Mango": "Mango - 50",
+      "Orange": "Orange - 60",
+      "Papaya": "Papaya - 45",
+      "Pear": "Pear - 60"
+	  "Pineapple": "Pineapple - 50"
+	  "Watermelon": "Watermelon - 30"
+	  "Coconut": "Coconut - 30",
+      "Tomato": "Tomato - 35",
+      "Potato": "Potato - 40",
+      "Brinjal": "Brinjal -37",
+      "Capsicum": "Capsicum -20",
+      "Onion": "Onion -70",
+      "Chilly": "Chilly -30",
+      "Ladysfinger": "Ladysfinger -45",
+      "Ginger": "Ginger -30",
+      "Garlic": "Garlic -40",
+      "Carrot": "Carrot -45",
+      "Beetroot": "Beetroot -55",
+      "Cabbage": "Cabbage -30",
+      "Drumstick": "Drumstick -20"
+	  "Beans": "Beans - 40"
+	  "Pumpkin": "Pumpkin -30"
+   }
+}
